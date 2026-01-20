@@ -72,3 +72,6 @@ span{
     gap: 10px;  
    margin-top: 10px;
 }
+#para i{
+    cursor: pointer;
+}
